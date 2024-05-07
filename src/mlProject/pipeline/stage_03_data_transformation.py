@@ -18,6 +18,7 @@ class DataTransformationTrainingPipeline:
             with open(Path("artifacts/data_validation/status.txt"), "r") as f:
                 status = f.read().split(" ")[-1]
 
+            # this is checked because if the data schema is not valid then we should not proceed with the training process
             if status == "True":
                 config = ConfigurationManager()
                 data_transformation_config = config.get_data_transformation_config()
