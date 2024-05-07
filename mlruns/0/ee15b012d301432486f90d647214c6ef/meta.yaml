@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Piyush/End%20To%20End%20ML%20Project%20With%20MLflow/mlruns/0/ee15b012d301432486f90d647214c6ef/artifacts
+end_time: 1715077549643
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee15b012d301432486f90d647214c6ef
+run_name: vaunted-frog-196
+run_uuid: ee15b012d301432486f90d647214c6ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715077542333
+status: 3
+tags: []
+user_id: user
